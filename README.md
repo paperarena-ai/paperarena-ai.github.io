@@ -12,4 +12,6 @@ Official project page for **PaperArena: An Evaluation Benchmark for Tool-Augment
 
 ## Repository
 
-💻 Code & Data: [https://github.com/Melmaphother/PaperArena](https://github.com/Melmaphother/PaperArena)
+💻 Code: [https://github.com/Melmaphother/PaperArena](https://github.com/Melmaphother/PaperArena)
+
+📊 Data: [https://huggingface.co/datasets/Melmaphother/PaperArena-Data](https://huggingface.co/datasets/Melmaphother/PaperArena-Data)
